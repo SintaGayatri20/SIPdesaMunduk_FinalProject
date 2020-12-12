@@ -1,0 +1,8 @@
+body {
+ 
+    border: 10px solid black;
+    padding: 35px;
+    background-image: url(../img/ftk1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
